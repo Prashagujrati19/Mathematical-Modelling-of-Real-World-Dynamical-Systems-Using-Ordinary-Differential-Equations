@@ -1,0 +1,2 @@
+# Mathematical-Modelling-of-Real-World-Dynamical-Systems-Using-Ordinary-Differential-Equations
+This project explores 18 real-world dynamical systems using ODEs and Wolfram Mathematica. It covers population growth, pollution, drug assimilation, epidemics, warfare, and predator-prey models. Using DSolve and NDSolve, the project analyzes solutions, graphs, equilibrium, growth, decay, oscillation, interactions, and parameter sensitivity.
